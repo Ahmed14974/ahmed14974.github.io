@@ -11,7 +11,7 @@ I’m passionate about advancing the frontier of multimodal foundation models th
 
 A bit about my background
 ======
-Originally from Lahore, Pakistan, I had the honor of attending [Pomona College](https://www.pomona.edu/) in sunny Claremont, California, where I completed a double-major in Mathematics and Economics. 
+Originally from Lahore, Pakistan, I had the honor and privilege of attending [Pomona College](https://www.pomona.edu/) in sunny Claremont, California for my bachelor's degree, where I completed a double-major in Mathematics and Economics. 
 
 Getting started
 ======
