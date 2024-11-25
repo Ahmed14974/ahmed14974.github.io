@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Muhammad Ahmed Chaudhry's website"
+title: "Welcome! I'm glad you're here"
 author_profile: true
 redirect_from: 
   - /about/
