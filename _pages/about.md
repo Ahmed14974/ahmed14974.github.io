@@ -21,4 +21,4 @@ News
 ======
 1. I am helping organize the Muslims in ML Workshop ([MusIML](https://www.musiml.org/)) at NeurIPS 2024.
 2. I served as a Reviewer for the Socially Responsible Language Modeling Research ([SoLaR](https://solar-neurips.github.io/)) Workshop at NeurIPS 2024.
-3. Our work on Many Shot In-Context Learning in Multimodal Foundation Models was accepted to the 1st [In-Context Learning Workshop](https://iclworkshop.github.io/) at ICML 2024. More on the paper in the Publications section.
+3. Our work on Many Shot In-Context Learning in Multimodal Foundation Models was accepted to the [1st In-Context Learning Workshop](https://iclworkshop.github.io/) at ICML 2024. More on the paper in the Publications section.
