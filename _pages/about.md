@@ -9,7 +9,7 @@ redirect_from:
 
 I’m passionate about advancing the frontier of multimodal foundation models through data-centric approaches. From rethinking the way we curate fine-tuning datasets to enabling foundation models to create societal impact in domains such as medicine and remote sensing, I firmly believe that higher-quality data leads to more capable ML models. Dive into my projects, explore my research, and please feel free to reach out to collaborate.
 
-To pursue my research interests, I'm currently affiliated with the [Stanford ML Group](https://stanfordmlgroup.github.io/) under [Prof. Andrew Ng](https://www.andrewng.org/), and [Stanford Trustworthy AI Research](stairlab.stanford.edu) under [Prof. Sanmi Koyejo](https://cs.stanford.edu/~sanmi/)
+To pursue my research interests, I'm currently affiliated with the [Stanford ML Group](https://stanfordmlgroup.github.io/) under [Prof. Andrew Ng](https://www.andrewng.org/), and [Stanford Trustworthy AI Research](stairlab.stanford.edu) under [Prof. Sanmi Koyejo].(https://cs.stanford.edu/~sanmi/)
 
 A bit about my background
 ======
