@@ -1,7 +1,7 @@
 ---
 title: "CloudTracks: A Dataset for Localizing Ship Tracks in Satellite Images of Clouds"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2024-01-25-cloudtracks
 excerpt: 'Data-Centric AI, Computer Vision, Satellite Imagery, Climate Change'
 date: 2024-01-25
