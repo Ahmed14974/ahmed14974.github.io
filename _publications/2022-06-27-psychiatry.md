@@ -6,9 +6,9 @@ permalink: /publication/2022-06-27-psychiatry
 excerpt: 'Statistical Analyses, Surveys, Brunout, Psychiatry Program Directors'
 date: 2022-06-27
 venue: 'Academic Psychiatry'
-slidesurl: ''
+slidesurl: 
 paperurl: 'http://ahmed14974.github.io/files/psychiatry.pdf'
-citation: ''
+citation: 
 ---
 <!-- Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3). -->
 
