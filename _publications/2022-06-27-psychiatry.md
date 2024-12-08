@@ -3,7 +3,7 @@ title: "The Burden of Leadership: a Survey of Burnout Experiences Among Psychiat
 collection: publications
 category: conferences
 permalink: /publication/2022-06-27-psychiatry
-excerpt: 'Keywords: Statistical Analyses, Surveys, Brunout, Psychiatry Program Directors'
+excerpt: 'Keywords: Statistical Analyses, Surveys, Burnout, Psychiatry Program Directors'
 date: 2022-06-27
 venue: 'Academic Psychiatry'
 slidesurl: 
