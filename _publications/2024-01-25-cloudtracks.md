@@ -5,10 +5,10 @@ category: manuscripts
 permalink: /publication/2024-01-25-cloudtracks
 excerpt: 'Keywords: Data-Centric AI, Computer Vision, Satellite Imagery, Climate Change'
 date: 2024-01-25
-venue: 'AI-Driven Innovations in Earth and Climate Sciences, Conference of the American Geologists Union'
+venue: 'AI-Driven Innovations in Earth and Climate Sciences, Conference of the American Geophysical Union'
 slidesurl: 
 paperurl: 'http://ahmed14974.github.io/files/cloudtracks.pdf'
-citation: 'Chaudhry, Muhammad Ahmed et al. (2024). &quot;CloudTracks: A Dataset for Localizing Ship Tracks in Satellite Images of Clouds&quot; <i>AI-Driven Innovations in Earth and Climate Sciences, Conference of the American Geologists Union 2024</i>.'
+citation: 'Chaudhry, Muhammad Ahmed et al. (2024). &quot;CloudTracks: A Dataset for Localizing Ship Tracks in Satellite Images of Clouds&quot; <i>AI-Driven Innovations in Earth and Climate Sciences, Conference of the American Geophysical Union 2024</i>.'
 ---
 <img width="1082" alt="image" src="https://github.com/user-attachments/assets/fe6c2602-49f7-4746-9a64-7df39597d8ec">
 
